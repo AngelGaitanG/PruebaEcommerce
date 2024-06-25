@@ -1,0 +1,22 @@
+{
+    "products": [
+      { "name": "Smartphone", "description": "Latest model with advanced features", "price": 699.99, "stock": 50, "category": "Electronics" },
+      { "name": "Laptop", "description": "High performance for all your needs", "price": 999.99, "stock": 30, "category": "Electronics" },
+  
+      { "name": "Novel", "description": "Bestselling fiction novel", "price": 14.99, "stock": 100, "category": "Books" },
+      { "name": "Cookbook", "description": "Delicious recipes for everyday cooking", "price": 24.99, "stock": 50, "category": "Books" },
+  
+      { "name": "T-Shirt", "description": "Comfortable cotton t-shirt", "price": 9.99, "stock": 200, "category": "Clothing" },
+      { "name": "Jeans", "description": "Stylish and durable denim jeans", "price": 29.99, "stock": 150, "category": "Clothing" },
+  
+      { "name": "Refrigerator", "description": "Energy-efficient refrigerator", "price": 499.99, "stock": 30, "category": "Home Appliances" },
+      { "name": "Microwave", "description": "Compact and powerful microwave oven", "price": 99.99, "stock": 50, "category": "Home Appliances" },
+  
+      { "name": "Lego Set", "description": "Creative and fun building blocks", "price": 49.99, "stock": 100, "category": "Toys" },
+      { "name": "Action Figure", "description": "Detailed and posable action figure", "price": 19.99, "stock": 150, "category": "Toys" },
+  
+      { "name": "Yoga Mat", "description": "Comfortable and durable yoga mat", "price": 29.99, "stock": 100, "category": "Sports" },
+      { "name": "Hiking Backpack", "description": "Durable and spacious hiking backpack", "price": 69.99, "stock": 40, "category": "Sports" }
+    ]
+
+  }
